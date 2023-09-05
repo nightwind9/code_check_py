@@ -17,6 +17,6 @@
     2. One of the great benefits of Pylint is that it is highly configurable, highly customizable, and it is easy to write small plugins to add functionality.
     3. If you run Pylint twice, it will show both the current and last run results, so you can see if the code quality has improved.
       
-- **pylint_json2html**
+- **Pylint_json2html**
   - **Link**: https://pypi.org/project/pylint-json2html/
  
