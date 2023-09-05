@@ -18,5 +18,6 @@
     3. If you run Pylint twice, it will show both the current and last run results, so you can see if the code quality has improved.
       
 - **pylint_json2html**
-  - **link**: https://pypi.org/project/pylint-json2html/
+  - **l
+  - **Link**: https://pypi.org/project/pylint-json2html/
  
