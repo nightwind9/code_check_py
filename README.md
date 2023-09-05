@@ -3,7 +3,7 @@
 - This script mainly realizes the following functions:
 1. **get_changed_files**: this will get files list that contains most recently committed files have changed.
 2. **get_all_python_files**: as name denotes, all python files path will be found in this directory.
-3. **find_conf_files**: configure file will be found in first two levels of drectorys.
+3. **find_conf_files**: configure file will be found in first two levels of directories.
 4. **run_pylint**: uses plugins "pylint_json2html" that transforms json (pylint generates) into jsonextended format.
 5. **pylint_json2html**: transforms jsonextended format to html.
 
